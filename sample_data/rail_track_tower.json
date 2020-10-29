@@ -1,0 +1,50 @@
+{
+
+ "id" : "RailTrackGateway1",
+ "area": "Valparai",
+ "position": {
+ 	"latitude": 8.955328,
+ 	"longitude": 77.13456
+ 	},
+ "type": "RAILWAY_TOWER",
+ "zone": "CONFLICT",
+ "perimeter_info" : {
+	 "perimeter_check": "INSIDE",
+	 "warning_perimeter": {
+	 	"north_west_corner": {
+	 		"latitude": 8.959107,
+	 		"longitude": 77.130783
+	 	},
+	 	"north_east_corner": {
+			"latitude": 8.959105,
+			"longitude": 77.136855
+	 	},
+	 	"south_west_corner": {
+	 		"latitude": 8.952137,
+	 		"longitude": 77.130916
+	 	},
+		"south_east_corner": {
+			"latitude": 8.952196,
+			"longitude": 77.13686
+		}
+	 },
+	 "alert_perimeter": {
+	 	"north_west_corner": {
+	 		"latitude": 8.956929,
+	 		"longitude": 77.131623
+	 	},
+	 	"north_east_corner": {
+			"latitude": 8.956971,
+			"longitude": 77.13656
+	 	},
+	 	"south_west_corner": {
+	 		"latitude": 8.953845,
+	 		"longitude": 77.131665
+	 	},
+		"south_east_corner": {
+			"latitude": 8.953941,
+			"longitude": 77.136539
+		}
+	 }
+	}
+}
