@@ -1,0 +1,50 @@
+{
+
+ "id" : "SanctuaryEdgeGateway1",
+ "area": "Valparai",
+ "position": {
+ 	"latitude": 8.964315,
+ 	"longitude": 77.135140
+ 	},
+ "type": "SANCTUARY_BORDER",
+ "zone": "CONFLICT",
+ "perimeter_info" : {
+	 "perimeter_check": "OUTSIDE",
+	 "warning_perimeter": {
+	 	"north_west_corner": {
+	 		"latitude": 8.970264,
+	 		"longitude": 77.130039
+	 	},
+	 	"north_east_corner": {
+			"latitude": 8.969024,
+			"longitude": 77.136509
+	 	},
+	 	"south_west_corner": {
+	 		"latitude": 8.966163,
+	 		"longitude": 77.127676
+	 	},
+		"south_east_corner": {
+			"latitude": 8.965188,
+			"longitude": 77.134172
+		}
+	 },
+	 "alert_perimeter": {
+	 	"north_west_corner": {
+	 		"latitude": 8.970264,
+	 		"longitude": 77.130039
+	 	},
+	 	"north_east_corner": {
+			"latitude": 8.967943,
+			"longitude": 77.140027
+	 	},
+	 	"south_west_corner": {
+	 		"latitude": 8.963515,
+	 		"longitude": 77.125266
+	 	},
+		"south_east_corner": {
+			"latitude": 8.962289,
+			"longitude": 77.13605
+		}
+	 }
+	}
+}
