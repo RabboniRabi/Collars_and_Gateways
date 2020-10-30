@@ -41,7 +41,7 @@
       "collar_charge": 13,
       "tiny_ml_detected_events": [
         {
-          "level": "DANGER",
+          "level": "ML_DETECTED_DANGER",
           "event": "Human voices detected!",
           "confidence": 87.5
         }
@@ -58,7 +58,7 @@
       "collar_charge": 13,
       "tiny_ml_detected_events": [
         {
-          "level": "DANGER",
+          "level": "ML_DETECTED_DANGER",
           "event": "Firecrackers detected!",
           "confidence": 87.5
         }
@@ -75,7 +75,7 @@
       "collar_charge": 11,
       "tiny_ml_detected_events": [
         {
-          "level": "DANGER",
+          "level": "ML_DETECTED_DANGER",
           "event": "Firecrackers detected!",
           "confidence": 87.5
         }
@@ -92,7 +92,7 @@
       "collar_charge": 10,
       "sensor_events": [
         {
-          "level": "WARNING",
+          "level": "SENSOR_WARNING",
           "event": "Fast movement",
           "value": 23.2
         }
@@ -109,7 +109,7 @@
       "collar_charge": 9,
       "sensor_events": [
         {
-          "level": "WARNING",
+          "level": "SENSOR_WARNING",
           "event": "Low battery",
           "value": 9
         }
