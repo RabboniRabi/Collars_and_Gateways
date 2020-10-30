@@ -15,7 +15,7 @@
       "animal_species": "Elephant",
       "animal_name": "yaanai",
       "animal_position": {
-        "latitude": 10.381108, 
+        "latitude": 10.381108,
         "longitude": 77.078468
       },
       "collar_charge": 16
@@ -40,77 +40,80 @@
       },
       "collar_charge": 13,
       "tiny_ml_detected_events": [
-    {
-      "level": "DANGER",
-      "event": "Human voices detected!",
-      "confidence": 87.5
-    }]
+        {
+          "level": "DANGER",
+          "event": "Human voices detected!",
+          "confidence": 87.5
+        }
+      ]
     },
     {
       "collar_id": "Elephant214KLIN",
       "animal_species": "Elephant",
       "animal_name": "yaanai",
       "animal_position": {
-        "latitude": 10.379773, 
+        "latitude": 10.379773,
         "longitude": 77.077759
       },
       "collar_charge": 13,
       "tiny_ml_detected_events": [
-    {
-      "level": "DANGER",
-      "event": "Firecrackers detected!",
-      "confidence": 87.5
-    }]
+        {
+          "level": "DANGER",
+          "event": "Firecrackers detected!",
+          "confidence": 87.5
+        }
+      ]
     },
     {
       "collar_id": "Elephant214KLIN",
       "animal_species": "Elephant",
       "animal_name": "yaanai",
       "animal_position": {
-        "latitude": 10.379815, 
+        "latitude": 10.379815,
         "longitude": 77.080421
       },
       "collar_charge": 11,
       "tiny_ml_detected_events": [
-    {
-      "level": "DANGER",
-      "event": "Firecrackers detected!",
-      "confidence": 87.5
-    }]
+        {
+          "level": "DANGER",
+          "event": "Firecrackers detected!",
+          "confidence": 87.5
+        }
+      ]
     },
     {
       "collar_id": "Elephant214KLIN",
       "animal_species": "Elephant",
       "animal_name": "yaanai",
       "animal_position": {
-        "latitude": 10.380342, 
+        "latitude": 10.380342,
         "longitude": 77.081924
       },
       "collar_charge": 10,
       "sensor_events": [
-    {
-      "level": "WARNING",
-      "event": "Fast movement",
-      "value": 23.2
-    }
-  ]
-    }
+        {
+          "level": "WARNING",
+          "event": "Fast movement",
+          "value": 23.2
+        }
+      ]
+    },
     {
       "collar_id": "Elephant214KLIN",
       "animal_species": "Elephant",
       "animal_name": "yaanai",
       "animal_position": {
-        "latitude": 10.381228, 
+        "latitude": 10.381228,
         "longitude": 77.083961
       },
       "collar_charge": 9,
       "sensor_events": [
-    {
-      "level": "WARNING",
-      "event": "Low battery",
-      "value": 9
-    }
-  ]
+        {
+          "level": "WARNING",
+          "event": "Low battery",
+          "value": 9
+        }
+      ]
     }
   ]
 }
