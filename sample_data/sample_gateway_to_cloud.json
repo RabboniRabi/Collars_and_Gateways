@@ -1,0 +1,48 @@
+{
+  "dataArray": [
+    {
+      "data": {
+        "tower_id": "FarmlandGateway1",
+        "tower_area": "Theni",
+        "tower_position": {
+          "latitude": 8.955328,
+          "longitude": 77.13456
+        },
+        "tower_type": "FARM_LAND_TOWER",
+        "tower_zone": "CONFLICT",
+        "event_message": {
+          "level": "WARNING",
+          "text": "Yaanai inside FarmlandGateway1 warning perimeter"
+        }
+      },
+      "uniqueId": "FarmlandGateway1",
+      "time": "2020-10-27 19:12:34"
+    },
+    {
+      "data": {
+        "collar_id": "Elephant214KLIN",
+        "animal_species": "Elephant",
+        "animal_name": "yaanai",
+        "animal_position": {
+          "latitude": 8.969345,
+          "longitude": 77.130787
+        },
+        "orientation": "North",
+        "activity": {
+          "current_state": "WALKING",
+          "mag_orientation": "UPRIGHT",
+          "duration": 13.5,
+          "acceleration": {
+            "x-axis": 0.5,
+            "y-axis": 0.21,
+            "z-axis": 0.03
+          }
+        },
+        "collar_charge": 75,
+        "last_gateway_sync": "2020-10-25 15:27:13"
+      },
+      "uniqueId": "collarInfo",
+      "time": "2020-10-27 19:12:34"
+    }
+  ]
+}

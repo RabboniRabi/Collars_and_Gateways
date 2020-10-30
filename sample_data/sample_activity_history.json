@@ -1,0 +1,42 @@
+{
+  "collar_id": "Elephant214KLIN",
+  "animal_species": "Elephant",
+  "animal_name": "yaanai",
+  "activity_log": [
+  	{
+  	  "timestamp": "2020-10-25 15:21:45",
+  	  "state" : "RESTING",
+  	  "duration" : 27.5,
+  	  "orientation" : "UPRIGHT",
+  	  "acceleration": {
+	      "x-axis": 0.01,
+	      "y-axis": 0.03,
+	      "z-axis": 0.00
+	    },
+	  "mag_orientation": "North"  
+  	},
+  	{
+  	  "timestamp": "2020-10-25 15:21:45",
+  	  "state" : "RESTING",
+  	  "duration" : 27.5,
+  	  "orientation" : "UPRIGHT",
+  	  "acceleration": {
+	      "x-axis": 0.01,
+	      "y-axis": 0.03,
+	      "z-axis": 0.00
+	    },
+	  "mag_orientation": "North"  
+  	},
+  	{
+  	  "timestamp": "2020-10-25 15:21:45",
+  	  "state" : "RESTING",
+  	  "duration" : 27.5,
+  	  "orientation" : "UPRIGHT",
+  	  "acceleration": {
+	      "x-axis": 0.01,
+	      "y-axis": 0.03,
+	      "z-axis": 0.00
+	    },
+	  "mag_orientation": "North"  
+  	}
+  }

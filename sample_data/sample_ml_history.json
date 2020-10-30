@@ -1,0 +1,55 @@
+{
+  "collar_id": "Elephant214KLIN",
+  "animal_species": "Elephant",
+  "animal_name": "yaanai",
+  "ml_prediction_log": [
+    {
+      "timestamp": "2020-10-25 15:21:45",
+      "event_prediction": {
+      	"event": "WITH_HERD",
+      	"level": "INFO",
+      	"confidence": 94.7
+      },
+      "beaviour_prediction": {
+      	"behaviour": "Agitated",
+      	"confidence": 56.2
+      	},
+      "environment_prediction": {
+      	"environment": "RIVER_BANK",
+      	"confidence": 65.3
+      }	
+    },
+    {
+      "timestamp": "2020-10-25 15:45:06",
+      "event_prediction": {
+      	"event": "WITH_HERD",
+      	"level": "INFO",
+      	"confidence": 95.1
+      },
+      "beaviour_prediction": {
+      	"behaviour": "Normal",
+      	"confidence": 86.2
+      	},
+      "environment_prediction": {
+      	"environment": "RIVER_BANK",
+      	"confidence": 43.4
+      }	
+    },
+    {
+      "timestamp": "2020-10-25 16:23:21",
+      "event_prediction": {
+      	"event": "WITH_HERD",
+      	"level": "INFO",
+      	"confidence": 97.8
+      },
+      "beaviour_prediction": {
+      	"behaviour": "Normal",
+      	"confidence": 86.2
+      	},
+      "environment_prediction": {
+      	"environment": "THICK_FOREST",
+      	"confidence": 43.4
+      }	
+    }
+  ]
+  }

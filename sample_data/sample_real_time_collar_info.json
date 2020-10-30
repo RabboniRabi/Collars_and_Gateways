@@ -1,0 +1,41 @@
+{
+  "collar_id": "Elephant214KLIN",
+  "animal_species": "Elephant",
+  "animal_name": "yaanai",
+  "animal_position": {
+    "latitude": 8.969345,
+    "longitude": 77.130787
+  },
+  "orientation" : "North",
+  "activity": {
+    "current_state": "WALKING",
+    "mag_orientation": "UPRIGHT",
+    "duration": 13.5,
+    "acceleration": {
+      "x-axis": 0.5,
+      "y-axis": 0.21,
+      "z-axis": 0.03
+    }
+  },
+  "sensor_events": [
+    {
+      "level": "WARNING",
+      "event": "Low battery",
+      "value": 9
+    }
+  ],
+  "tiny_ml_detected_events": [
+    {
+      "level": "DANGER",
+      "event": "Firecracker sounds detected",
+      "confidence": 87.5
+    },
+    {
+      "level": "ALERT",
+      "event": "Human voices detected",
+      "confidence": 91.2
+    }
+  ],
+  "collar_charge": 75,
+  "last_gateway_sync": "2020-10-25 15:27:13"
+}
