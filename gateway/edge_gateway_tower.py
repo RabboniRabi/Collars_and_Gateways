@@ -22,7 +22,7 @@ client = None
 
 # This number is used to simulate range of gateway towers in communication with animal collars. Distance is given in meters.
 # This estimated value is based on some available studies of LoRa range in forest environments.
-lora_range = 650
+lora_range = 1200
 
 # The name of the file to read the tower information. This name is fetched from command line during program execution.
 tower_info_file_name = None
@@ -64,10 +64,10 @@ def on_message(client, userdata, msg):
 		gateway_events = alert_events_check(collar_info, tower_info)
 		if gateway_events is not None:
 			send_to_iot_connect_dash(collar_info, tower_info, gateway_events['dashboard'])
-		elif 'sensor_events' in collar_info:
-			send_to_iot_connect_dash(collar_info, tower_info, collar_info['sensor_events'])
-		elif 'tiny_ml_detected_events' in collar_info:
-			send_to_iot_connect_dash(collar_info, tower_info, collar_info['tiny_ml_detected_events'])
+		if 'sensor_events' in collar_info:
+			send_to_iot_connect_dash(collar_info, tower_info, collar_info['sensor_events'][0])
+		if 'tiny_ml_detected_events' in collar_info:
+			send_to_iot_connect_dash(collar_info, tower_info, collar_info['tiny_ml_detected_events'][0])
 		else:
 			send_to_iot_connect_dash(collar_info, tower_info, None)
 	
