@@ -1,0 +1,157 @@
+{
+
+"data" : [
+          {
+           "collar_id": "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.969345,
+                "longitude": 77.130787
+                },
+          "collar_charge" : 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.968103,
+                "longitude": 77.132295
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.966477,
+                "longitude": 77.131665
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.966114,
+                "longitude": 77.133369
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.963732,
+                "longitude": 77.130842
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.96228,
+                "longitude": 77.132378
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.96067,
+                "longitude": 77.132686
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.959786,
+                "longitude": 77.132128
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.958711,
+                "longitude": 77.133223
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.957299,
+                "longitude": 77.133493
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.956388,
+                "longitude": 77.133921
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.955137,
+                "longitude": 77.133706
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.954307,
+                "longitude": 77.133515
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.952445,
+                "longitude": 77.132622
+                },
+           "collar_charge": 75
+          },
+          {
+           "collar_id" : "Elephant214KLIN",
+           "animal_species": "Elephant",
+           "animal_name": "yaanai",
+           "animal_position": {
+                "latitude": 8.949478,
+                "longitude": 77.130704
+                },
+           "collar_charge": 75
+          }
+]
+
+}
+
