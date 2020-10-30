@@ -1,0 +1,50 @@
+{
+
+ "id" : "FarmlandGateway1",
+ "area": "Theni",
+ "position": {
+ 	"latitude": 10.378137,
+ 	"longitude": 77.073578
+ 	},
+ "type": "FARM_LAND_TOWER",
+ "zone": "CONFLICT",
+ "perimeter_info" : {
+	 "perimeter_check": "INSIDE",
+	 "warning_perimeter": {
+	 	"north_west_corner": {
+	 		"latitude": 10.382658,
+	 		"longitude": 77.068924
+	 	},
+	 	"north_east_corner": {
+			"latitude": 10.382616,
+			"longitude": 77.078278,
+	 	},
+	 	"south_west_corner": {
+	 		"latitude": 10.373610,
+	 		"longitude": 77.068893
+	 	},
+		"south_east_corner": {
+			"latitude": 10.373742,
+			"longitude": 77.078537
+		}
+	 },
+	 "alert_perimeter": {
+	 	"north_west_corner": {
+	 		"latitude": 10.380226,
+	 		"longitude": 77.070831
+	 	},
+	 	"north_east_corner": {
+			"latitude": 10.380205,
+			"longitude": 77.075531
+	 	},
+	 	"south_west_corner": {
+	 		"latitude": 10.37571,
+	 		"longitude": 77.070984
+	 	},
+		"south_east_corner": {
+			"latitude": 10.375751,
+			"longitude": 77.075768
+		}
+	 }
+	}
+}
